@@ -1,0 +1,8 @@
+streamlit>=1.40.0
+
+pandas>=2.0.0
+SQLAlchemy>=2.0.0
+
+requests>=2.32.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.0

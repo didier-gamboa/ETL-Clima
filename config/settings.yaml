@@ -1,0 +1,12 @@
+api:
+  base_url: "https://api.openweathermap.org/data/2.5/weather"
+  units: "metric"   # °C
+  lang: "es"          
+
+etl:
+  save_raw: true        
+  raw_path: "data/raw"  
+  processed_path: "data/processed"  
+
+app:
+  title: "Clima en nuestras ciudades"
